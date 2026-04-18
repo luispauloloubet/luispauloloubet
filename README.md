@@ -1,4 +1,4 @@
-# Olá, eu sou o Luis Paulo Santiago 👋
+# Olá, eu sou o Luis Paulo Loubet
 
 ### Engenheiro Aeronáutico em formação (EESC-USP) & Entusiasta de Data Science
 
