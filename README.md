@@ -25,7 +25,7 @@ Sou estudante concluite de **Engenharia Aeronáutica na Escola de Engenharia de 
 ### Como me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_USER_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/luis-paulo-loubet-557712179/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" title="LinkedIn" alt="LinkedIn" />
   </a>
   <a href="mailto:paulosantiago240@gmail.com">
